@@ -1,0 +1,6 @@
+print("enter the string")
+s=input()
+print ("enter the substring")
+s1=input()
+count=s.count(s1)
+print("the count is:",count)
