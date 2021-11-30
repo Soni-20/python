@@ -1,4 +1,4 @@
 print("enter three colours")
 s=input()
-l=l.index(1)
+l=s.split(",")
 print("colours",l[0],l[-1])
