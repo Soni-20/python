@@ -1,4 +1,0 @@
-Conditional branch instructions use PC-relative addressing .
-to specify the new value of the PC . 
-The signed offset in the immediate field is added to.
-an address is specified in the instruction
