@@ -1,0 +1,5 @@
+print("enter the string")
+s1=input()
+print("enter the string")
+s2=input()
+print(s2[0]+s1[1:]+" "+s1[0]+s2[1:])
